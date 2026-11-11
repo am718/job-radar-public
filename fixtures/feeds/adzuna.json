@@ -1,0 +1,41 @@
+{
+  "count": 3,
+  "mean": 98000,
+  "results": [
+    {
+      "id": "4812345678",
+      "title": "Junior <strong>Software</strong> <strong>Engineer</strong>",
+      "description": "Join our team building <strong>software</strong> for logistics. You will write TypeScript and Python, work with senior engineers and ship weekly. Salary $90,000 - $110,000 ...",
+      "created": "2026-11-07T08:15:22Z",
+      "redirect_url": "https://www.adzuna.com/land/ad/4812345678?se=EXAMPLE&utm_medium=api",
+      "company": { "__CLASS__": "Adzuna::API::Response::Company", "display_name": "Example Logistics Inc" },
+      "location": { "__CLASS__": "Adzuna::API::Response::Location", "display_name": "Austin, Travis County", "area": ["US", "Texas", "Travis County", "Austin"] },
+      "category": { "tag": "it-jobs", "label": "IT Jobs" },
+      "contract_type": "permanent",
+      "salary_min": 90000,
+      "salary_max": 110000,
+      "salary_is_predicted": "0"
+    },
+    {
+      "id": "4812345679",
+      "title": "Remote Solutions Engineer",
+      "description": "Help customers adopt our API platform ...",
+      "created": "2026-11-06T17:00:00Z",
+      "redirect_url": "https://www.adzuna.com/land/ad/4812345679?se=EXAMPLE&utm_medium=api",
+      "company": { "display_name": "Sample Cloud Co" },
+      "location": { "display_name": "US", "area": ["US"] },
+      "salary_min": 120000.5,
+      "salary_max": 120000.5,
+      "salary_is_predicted": "1"
+    },
+    {
+      "id": "4812345680",
+      "title": "Software Developer",
+      "description": "Maintain internal tools ...",
+      "created": "not-a-date",
+      "redirect_url": "https://www.adzuna.com/land/ad/4812345680",
+      "company": { "display_name": "Acme Widgets" },
+      "location": { "display_name": "Boston, Middlesex County" }
+    }
+  ]
+}

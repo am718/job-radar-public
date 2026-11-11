@@ -1,0 +1,144 @@
+[
+ {
+  "id": "36028fb8ea4f",
+  "friendly_id": "36028fb8ea4f-ai-automation-engineer-remote-u-s",
+  "name": "AI Automation Engineer (Remote - U.S.)",
+  "url": "https://urrly.breezy.hr/p/36028fb8ea4f-ai-automation-engineer-remote-u-s",
+  "published_date": "2026-10-19T17:49:10.246Z",
+  "type": {
+   "id": "fullTime",
+   "name": "Full-Time"
+  },
+  "location": {
+   "country": {
+    "name": "United States",
+    "id": "US"
+   },
+   "state": {
+    "id": "CA",
+    "name": "California"
+   },
+   "city": "Beverly Hills",
+   "is_remote": true,
+   "primary": true,
+   "name": "Beverly Hills, CA",
+   "id": "0422098ae0d9",
+   "remote_details": {
+    "value": "remote",
+    "label": "Fully remote, no location restrictions"
+   }
+  },
+  "department": null,
+  "salary": "$120,000 – $150,000 / year",
+  "company": {
+   "name": "Urrly",
+   "logo_url": null,
+   "friendly_id": "urrly",
+   "isMultipleLocationsEnabled": true
+  },
+  "locations": [
+   {
+    "country": {
+     "name": "United States",
+     "id": "US"
+    },
+    "state": {
+     "id": "CA",
+     "name": "California"
+    },
+    "city": "Beverly Hills",
+    "is_remote": true,
+    "primary": true,
+    "name": "Beverly Hills, CA",
+    "id": "0422098ae0d9",
+    "remote_details": {
+     "value": "remote",
+     "label": "Fully remote, no location restrictions"
+    }
+   }
+  ]
+ },
+ {
+  "id": "52a8d92b1010",
+  "friendly_id": "52a8d92b1010-ai-automation-engineer-remote-latam-philippines",
+  "name": "AI Automation Engineer (Remote – LATAM & Philippines)",
+  "url": "https://urrly.breezy.hr/p/52a8d92b1010-ai-automation-engineer-remote-latam-philippines",
+  "published_date": "2026-10-19T17:49:09.551Z",
+  "type": {
+   "id": "fullTime",
+   "name": "Full-Time"
+  },
+  "location": {
+   "country": {
+    "name": "Philippines",
+    "id": "PH"
+   },
+   "city": "Manila",
+   "primary": true,
+   "is_remote": true,
+   "remote_details": {
+    "value": "remote",
+    "label": "Fully remote, no location restrictions"
+   },
+   "name": "Manila, PH"
+  },
+  "department": null,
+  "salary": "$3,500 – $5,000 / month",
+  "company": {
+   "name": "Urrly",
+   "logo_url": null,
+   "friendly_id": "urrly",
+   "isMultipleLocationsEnabled": true
+  },
+  "locations": [
+   {
+    "country": {
+     "name": "Philippines",
+     "id": "PH"
+    },
+    "city": "Manila",
+    "primary": true,
+    "is_remote": true,
+    "remote_details": {
+     "value": "remote",
+     "label": "Fully remote, no location restrictions"
+    },
+    "name": "Manila, PH",
+    "id": "522e4d248ea4"
+   }
+  ]
+ },
+ {
+  "id": "026d43128c81",
+  "friendly_id": "026d43128c81-junior-software-engineer",
+  "name": "Junior Software Engineer",
+  "url": "https://tristero.breezy.hr/p/026d43128c81-junior-software-engineer",
+  "published_date": "2023-12-08T16:23:34.743Z",
+  "type": {
+   "id": "fullTime",
+   "name": "Full-Time"
+  },
+  "location": {
+   "is_remote": true,
+   "country": {
+    "name": "United States",
+    "id": "US"
+   },
+   "state": {
+    "id": "NY",
+    "name": "New York"
+   },
+   "city": "NYC",
+   "name": "NYC, NY"
+  },
+  "department": null,
+  "salary": "$80,000 – $130,000 / year",
+  "company": {
+   "name": "Tristero",
+   "logo_url": "https://gallery-cdn.breezy.hr/014b12da-e737-40a4-86b5-3d55ebea9a5d/tristero-logo.png",
+   "friendly_id": "tristero",
+   "isMultipleLocationsEnabled": false
+  },
+  "locations": []
+ }
+]

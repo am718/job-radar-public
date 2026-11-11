@@ -1,0 +1,66 @@
+{
+ "name": "Seeq",
+ "description": "<p>Seeq is a global leader in advanced analytics for process manufacturing industries. We’re transforming the way companies do business by harnessing the power of unused manufacturing data to generate faster insights and better business outcomes.<br><br>Seeq empowers manufacturers with advanced analytics to quickly gain insights from time series data to optimize business outcomes.<br><br>Seeq is a privately held virtual company with employees across the United States, Asia, Canada, Europe, and South America.</p>",
+ "jobs": [
+  {
+   "title": "AI Software Engineer - Staff/Principal",
+   "shortcode": "1B6E0A1710",
+   "code": "2026-45",
+   "employment_type": "Full-time",
+   "telecommuting": true,
+   "department": "Software Engineering",
+   "url": "https://apply.workable.com/j/1B6E0A1710",
+   "shortlink": "https://apply.workable.com/j/1B6E0A1710",
+   "application_url": "https://apply.workable.com/j/1B6E0A1710/apply",
+   "published_on": "2026-09-21",
+   "created_at": "2026-09-18",
+   "country": "United States",
+   "city": "",
+   "state": "",
+   "education": null,
+   "experience": "Mid-Senior level",
+   "function": "Engineering",
+   "industry": "Computer Software",
+   "locations": [
+    {
+     "country": "United States",
+     "countryCode": "US",
+     "city": null,
+     "region": null,
+     "hidden": false
+    }
+   ],
+   "description": "<p><strong>About Seeq</strong></p><p>Seeq builds advanced analytics software for customers in process manufacturing industries such as pharmaceuticals, mining, renewables, and energy — organizations with massive amounts of time-series and event data from industrial operations.</p><p>We are a fully remote company that has operated this way from the start, using tools like Zoom, Slack, and our homegrown Qube virtual office to collaborate as if we were in the same building. Our teams iterate using agile practices and care deeply about clear communication, shared learning, and delivering software that exceeds customer expectations.</p><p></p><p><strong>Role Overview</strong></p><p>The AI Software Engineer is a domain-leading individual contributor who helps define and scale the backend platforms and AI systems supporting Seeq’s intelligent applications.</p><p>You will own highly ambiguous, cross-team technical initiatives and provide architectural leadership for backend platforms and agentic systems, helping establish the shared infrastructure, services, APIs, and engineering patterns that allow AI-enabled capabilities to operate reliably and safely at scale across Seeq.</p><p>This is a deeply hands-on role. You will combine significant experience building AI systems with strong backend and distributed systems expertise, broad technical influence, and continued involvement in designing, coding, debugging, and shipping production software.</p><p></p><p><strong>Key Responsibilities</strong></p>"
+  },
+  {
+   "title": "Analytics Engineer",
+   "shortcode": "0BEAE8BEA3",
+   "code": null,
+   "employment_type": "Full-time",
+   "telecommuting": true,
+   "department": "Analytics Engineering",
+   "url": "https://apply.workable.com/j/0BEAE8BEA3",
+   "shortlink": "https://apply.workable.com/j/0BEAE8BEA3",
+   "application_url": "https://apply.workable.com/j/0BEAE8BEA3/apply",
+   "published_on": "2026-09-16",
+   "created_at": "2026-09-15",
+   "country": "Australia",
+   "city": "",
+   "state": "",
+   "education": null,
+   "experience": "Mid-Senior level",
+   "function": "Sales",
+   "industry": "Computer Software",
+   "locations": [
+    {
+     "country": "Australia",
+     "countryCode": "AU",
+     "city": null,
+     "region": null,
+     "hidden": false
+    }
+   ],
+   "description": "<p>Seeq builds advanced analytics software that unlocks insights from industrial process data, empowering companies in sectors like pharmaceuticals, oil &amp; gas, chemicals, and power generation to optimize operations and drive business value.</p><p>As a remote-first company since our founding, we’re built for collaboration across time zones. Our engineering and customer-facing teams thrive in a supportive, agile environment that emphasizes curiosity, learning, and continuous improvement.</p><p>Analytics Engineers at Seeq serve as trusted technical advisors to our customers, helping them solve complex process challenges and maximize value from our software. You’ll work directly with end users to design scalable, high-impact analytics solutions that drive engagement, adoption, and tangible business outcomes.</p><p>&nbsp;</p><p><u><strong>Key Duties &amp; Responsibilities:</strong></u></p><p>As a key customer-facing team member, you will participate in the following activities:</p><p>&nbsp;<strong>Customer Technical Adoption</strong>&nbsp;</p><ul><li>Serve as the customer’s trusted technical advisor by building relationships with champions and end-users through <strong>solution review</strong>, implementation guidance, and technical mentorship.</li><li>Leverage customer relationships to uncover high-value, high-impact use case opportunities directly linked to the customer’s critical business workflows and objectives.</li><li>Collaborate with the customer and the account team <strong>to develop</strong> and execute strategic plans for adoption of Seeq and completion of key use cases addressing business objectives.</li><li>Advise customer champions and end-users to implement and operationalize the use cases to deliver a high return on investment for the customer.</li></ul><p>&nbsp;</p><p></p><p><strong>Product Expertise</strong>&nbsp;</p><ul><li>Be a product expert, maintaining knowledge of how to implement and troubleshoot solutions in the platform.</li><li>Identify gaps in Seeq's capabilities required to meet customer needs and give feedback to the product organization to influence the product roadmap.</li><li>Work with the product team <strong>to implement and test new functionalities</strong> that meet customer needs.</li></ul><p>&nbsp;<strong>Industry Expertise</strong>&nbsp;</p><ul><li>Build trust with customers through the application of industry-specific knowledge and awareness, including market and use case trends specific to their area.&nbsp;</li><li>Collaborate with internal teams (including industry principals, product marketing, and solution consulting) to influence industry-specific strategy.</li></ul><p><strong>Requirements</strong></p>"
+  }
+ ]
+}

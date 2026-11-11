@@ -1,0 +1,8 @@
+{
+  "enabled": ["hn", "remoteok", "wwr", "usajobs", "adzuna"],
+  "hn": { "threads": 1 },
+  "remoteok": { "tags": ["dev", "engineer", "software", "backend", "frontend", "full stack", "javascript", "typescript", "python", "react", "node", "sales engineer", "solutions"] },
+  "wwr": { "categories": ["remote-programming-jobs", "remote-full-stack-programming-jobs", "remote-sales-and-marketing-jobs"] },
+  "usajobs": { "keyword": "software engineer", "remote": true },
+  "adzuna": { "what": "software engineer entry level", "where": "", "country": "us" }
+}

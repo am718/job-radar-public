@@ -1,0 +1,112 @@
+{
+  "minBasePay": 115000,
+  "requiresSponsorship": null,
+  "trackAKeywords": [
+    "software engineer",
+    "software developer",
+    "swe",
+    "ai engineer",
+    "machine learning engineer",
+    "ml engineer",
+    "automation",
+    "full-stack",
+    "full stack",
+    "fullstack",
+    "forward deployed",
+    "backend engineer",
+    "frontend engineer",
+    "applied ai",
+    "data engineer",
+    "engineer"
+  ],
+  "trackBKeywords": [
+    "solutions engineer",
+    "solutions architect",
+    "sales engineer",
+    "technical business development",
+    "business development",
+    "implementation",
+    "solutions consultant",
+    "customer engineer",
+    "technical account",
+    "technical consultant",
+    "solutions strategist",
+    "solutions"
+  ],
+  "excludeTitleWords": [
+    "senior",
+    "sr.",
+    "sr ",
+    "staff",
+    "principal",
+    "lead",
+    "manager",
+    "director",
+    "vp",
+    "vice president",
+    "head of",
+    "intern",
+    "internship"
+  ],
+  "excludeDescriptionPatterns": [
+    "\\b([3-9]|1\\d)\\s*\\+\\s*years?",
+    "\\b(at least|minimum of|minimum)\\s+([3-9]|1\\d)\\s+years?",
+    "\\b([3-9]|1\\d)\\s*(-|to)\\s*\\d+\\s+years?",
+    "\\b([3-9]|1\\d)\\s+years?\\s+of\\s+(professional\\s+|relevant\\s+|work\\s+)?(experience|software|engineering)"
+  ],
+  "softWords": [
+    "preferred",
+    "nice to have",
+    "nice-to-have",
+    "bonus",
+    "ideally",
+    "a plus"
+  ],
+  "hardWords": [
+    "required",
+    "must",
+    "minimum",
+    "at least"
+  ],
+  "locationTiers": [
+    {
+      "tier": 1,
+      "label": "New York City",
+      "patterns": [
+        "\\b(new york|nyc|manhattan|brooklyn|queens|bronx|staten island)\\b|,\\s*ny\\b"
+      ]
+    },
+    {
+      "tier": 2,
+      "label": "Remote (US)",
+      "remote": true
+    },
+    {
+      "tier": 3,
+      "label": "Dallas",
+      "patterns": [
+        "\\b(dallas|plano|irving|frisco|fort worth|dfw)\\b|,\\s*tx\\b.*dallas"
+      ]
+    },
+    {
+      "tier": 4,
+      "label": "New Jersey",
+      "patterns": [
+        "\\bnew jersey\\b|,\\s*nj\\b|\\b(jersey city|newark|hoboken|princeton)\\b"
+      ]
+    },
+    {
+      "tier": 5,
+      "label": "California",
+      "patterns": [
+        "\\b(california|san francisco|bay area|los angeles|san jose|palo alto|mountain view|sunnyvale|san diego|oakland|menlo park)\\b|,\\s*ca\\b"
+      ]
+    }
+  ],
+  "listedPayRequired": [
+    {
+      "tier": 4,
+      "reason": "NJ requires listed pay"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>mock ashby application form (APPROXIMATION)</title></head><body>
+<!-- UNVERIFIED APPROXIMATION. Ashby application pages are client-rendered (a plain GET returns no form markup), so this layout was written
+     by hand from the usual Ashby shape (system fields with _systemfield_* ids, label-for pairs, Yes/No rendered as buttons, a "Submit Application" button).
+     The adapter matches on label text, not on ids, to reduce the risk of that guess being wrong. Not captured from a live form. -->
+<form onsubmit="return false">
+  <div><label for="_systemfield_name">Name<span>*</span></label><input id="_systemfield_name" name="_systemfield_name" type="text" required></div>
+  <div><label for="_systemfield_email">Email<span>*</span></label><input id="_systemfield_email" name="_systemfield_email" type="email" required></div>
+  <div><label for="_systemfield_resume">Resume<span>*</span></label><input id="_systemfield_resume" name="_systemfield_resume" type="file"></div>
+  <div><label for="phone">Phone number</label><input id="phone" type="tel"></div>
+  <div><label for="loc">Current location</label><input id="loc" type="text"></div>
+  <div><label for="li">LinkedIn Profile</label><input id="li" type="text"></div>
+  <div><label for="gh">GitHub</label><input id="gh" type="text"></div>
+  <div><label for="q-why">Why do you want to work at Sierra?</label><textarea id="q-why"></textarea></div>
+  <div><label for="q-hear">How did you hear about us?</label><select id="q-hear"><option value="">Select...</option><option>LinkedIn</option><option>Company website</option><option>Referral</option><option>Other</option></select></div>
+  <div><label for="q-salary">What are your salary expectations?</label><input id="q-salary" type="text"></div>
+  <div><label for="q-start">When could you start?</label><input id="q-start" type="text"></div>
+  <div data-mock-yesno data-q="auth"><div class="q">Are you legally authorized to work in the United States?</div><button type="button">Yes</button><button type="button">No</button></div>
+  <div data-mock-yesno data-q="spons"><div class="q">Will you now or in the future require sponsorship for employment visa status?</div><button type="button">Yes</button><button type="button">No</button></div>
+  <div><label for="q-custom">What is your favorite programming language and why?</label><textarea id="q-custom"></textarea></div>
+  <button type="submit" id="submit-app">Submit Application</button>
+</form>
+<script src="mock-widgets.js"></script></body></html>

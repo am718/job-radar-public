@@ -1,0 +1,6 @@
+[
+  { "name": "Acme", "ats": "greenhouse", "slug": "acme", "tags": [] },
+  { "name": "Mock Co", "ats": "lever", "slug": "mockco", "tags": [] },
+  { "name": "Mistral", "ats": "ashby", "slug": "mistral.ai", "tags": [] },
+  { "name": "Mercury", "ats": "greenhouse", "slug": "mercury", "tags": [] }
+]

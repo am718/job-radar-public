@@ -1,0 +1,32 @@
+From: Recruiting Weekly <digest@example.com>
+To: Test Person <test.person@example.com>
+Subject: Roles we think you'll like
+Date: Thu, 06 Nov 2025 11:00:00 +0000
+Message-ID: <gen-1@example.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<html><body>
+<p>Hi Test, a few roles matched your profile.</p>
+<div>
+  <a href="https://boards.greenhouse.io/acmerobotics/jobs/4455667?gh_src=mail">Software Engineer, Platform</a>
+  <p>Acme Robotics &middot; New York, NY</p>
+</div>
+<div>
+  <a href="https://jobs.lever.co/zenithcloud/0a1b2c3d-4e5f-6071-8293-a4b5c6d7e8f9">Forward Deployed Engineer</a>
+  <p>Zenith Cloud - Remote (US)</p>
+</div>
+<div>
+  <a href="https://click.mailer.example.net/c/AAA111">Data Engineer</a>
+  <p>Orchard Data</p>
+</div>
+<div>
+  <a href="https://click.mailer.example.net/c/BBB222">Technical Support Engineer</a>
+  <p>Hidden Corp</p>
+</div>
+<p>
+  <a href="https://click.mailer.example.net/u/unsubscribe?x=1">Unsubscribe</a> |
+  <a href="https://example.com/privacy">Privacy policy</a> |
+  <a href="https://example.com/preferences">Email preferences</a>
+</p>
+</body></html>

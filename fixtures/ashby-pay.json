@@ -1,0 +1,303 @@
+{
+ "jobs": [
+  {
+   "id": "993557d9-7482-4f63-aae0-5817998b2368",
+   "title": "Senior Analytics Engineer - Finance",
+   "department": "Engineering",
+   "team": "Data Engineering",
+   "employmentType": "FullTime",
+   "location": "United States",
+   "shouldDisplayCompensationOnJobPostings": true,
+   "secondaryLocations": [],
+   "publishedAt": "2026-10-16T10:44:16.327+00:00",
+   "isListed": true,
+   "isRemote": true,
+   "workplaceType": "Remote",
+   "address": {
+    "postalAddress": {
+     "addressCountry": "United States"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/kraken.com/993557d9-7482-4f63-aae0-5817998b2368",
+   "applyUrl": "https://jobs.ashbyhq.com/kraken.com/993557d9-7482-4f63-aae0-5817998b2368/application",
+   "descriptionHtml": "<h1><strong>Building the Future of Open Finance</strong><br /></h1><p style=\"min-height:1.5em\">Payward - the parent company behind Kraken, NinjaTrader, Breakout,  xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system.</p><p style=\"min-height:1.5em\"></p><h2><strong>The team</strong></h2><p style=\"min-height:1.5em\">Founded",
+   "descriptionPlain": "BUILDING THE FUTURE OF OPEN FINANCE\n\n\nPayward - the parent company behind Kraken, NinjaTrader, Breakout,  xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system.\n\n\n\n\nTHE TEAM\n\nFounded in 2011, Kraken is one of the world's longest-standing crypto platforms, trusted by over 10 million individuals and institutions across the globe. It offers spot trading, margin, futures, staking, and OTC services, with products built for both individual investors and institutional clients.\n\n \n\nWe’re looking for a Senior Analytics Engineer to join Kraken’s Finance Data Eng & Analytics team within Data Platform. You’ll build trusted financial data products, using automation and AI to reduce manual work and improve the close process.\n\nWorking at the intersection of data engineering and accounting, you’ll turn complex financial data into reliable pipelines, models and automated reconciliations. You’ll use AI-assisted tools to accelerate development and investigations, keeping financial outputs tested and traceable.\n\n \n\n\nTHE OPPORTUNITY\n\n - You’ll work closely with Data Engineers, Finance and Platform Accounting to improve reporting and decision-making. Clear communication and collaboration will help you agree priorities, explain findings and drive adoption.\n\n - Partner with Finance to understand workflows, identify pain poin",
+   "compensation": {
+    "compensationTierSummary": "$110.4K – $220.8K • Offers Equity • Offers Bonus",
+    "scrapeableCompensationSalarySummary": "$110.4K - $220.8K",
+    "compensationTiers": [
+     {
+      "id": "2d710194-bfc3-4911-b0f5-06f84e390b5b",
+      "tierSummary": "$110.4K – $220.8K • Offers Equity • Offers Bonus",
+      "title": null,
+      "additionalInformation": null,
+      "components": [
+       {
+        "id": "6474018b-6a68-4e3a-9046-aa409c5e4c31",
+        "summary": "$110.4K – $220.8K",
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 110400,
+        "maxValue": 220800
+       },
+       {
+        "id": "c2cd3c08-36f5-4461-a00d-a481b5872b88",
+        "summary": "Offers Equity",
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+       },
+       {
+        "id": "a7dccf30-f1a4-4952-a1f7-a6ad3c77f7bc",
+        "summary": "Offers Bonus",
+        "compensationType": "Bonus",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": null,
+        "maxValue": null
+       }
+      ]
+     }
+    ],
+    "summaryComponents": [
+     {
+      "compensationType": "Salary",
+      "interval": "1 YEAR",
+      "currencyCode": "USD",
+      "minValue": 110400,
+      "maxValue": 220800
+     },
+     {
+      "compensationType": "EquityPercentage",
+      "interval": "NONE",
+      "currencyCode": null,
+      "minValue": null,
+      "maxValue": null
+     },
+     {
+      "compensationType": "Bonus",
+      "interval": "1 YEAR",
+      "currencyCode": "USD",
+      "minValue": null,
+      "maxValue": null
+     }
+    ]
+   }
+  },
+  {
+   "id": "49ae54dc-3d33-4107-8112-63fac1ee86ca",
+   "title": "IT Support Specialist",
+   "department": "IT",
+   "team": "IT",
+   "employmentType": "FullTime",
+   "location": "San Francisco",
+   "shouldDisplayCompensationOnJobPostings": true,
+   "secondaryLocations": [
+    {
+     "location": "London, UK",
+     "address": {
+      "postalAddress": {
+       "addressRegion": "Greater London",
+       "addressCountry": "United Kingdom",
+       "addressLocality": "London"
+      }
+     }
+    }
+   ],
+   "publishedAt": "2025-06-26T14:32:00.452+00:00",
+   "isListed": true,
+   "isRemote": false,
+   "workplaceType": "OnSite",
+   "address": {
+    "postalAddress": {
+     "addressRegion": "California",
+     "addressCountry": "United States",
+     "addressLocality": "San Francisco"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/openai/49ae54dc-3d33-4107-8112-63fac1ee86ca",
+   "applyUrl": "https://jobs.ashbyhq.com/openai/49ae54dc-3d33-4107-8112-63fac1ee86ca/application",
+   "descriptionHtml": "<p style=\"min-height:1.5em\"><strong>About the Team</strong></p><p style=\"min-height:1.5em\">The IT Services and Support team is responsible for providing seamless, efficient, and reliable IT solutions across the organization. We handle frontline IT support, manage vendor relationships and equipment inventory, and continuously improve our processes and documentation to enhance the overall employee experience.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>About the Role</st",
+   "descriptionPlain": "About the Team\n\nThe IT Services and Support team is responsible for providing seamless, efficient, and reliable IT solutions across the organization. We handle frontline IT support, manage vendor relationships and equipment inventory, and continuously improve our processes and documentation to enhance the overall employee experience.\n\n\n\nAbout the Role\n\nAs an IT Support team member, you will be the first point of contact for troubleshooting hardware, software, and network issues. Your responsibilities include resolving incoming support requests, coordinating with vendors for equipment procurement, repairs, and maintenance, and actively participating in process and systems improvement initiatives.\n\n\n\nWe’re looking for people who are customer-focused, technically proficient, and proactive in enhancing IT processes. You should excel at clear communication with both technical and non-technical stakeholders, have robust expertise in IT systems (with a strong background in macOS, and ideally Windows), and thrive in collaborative, fast-paced environments.\n\n\n\nThis role is based out of our London or San Francisco office and requires 5 days in office per week. We offer relocation assistance to new employees.\n\n\n\nIn this role, you will:\n\n - Improve Support Systems and Processes: Collaborate with cross-functional teams to identify opportunities for improvement, support the creation and maintenance of repeatable workflows (such as onboarding and device imaging), and contribute innovative id",
+   "compensation": {
+    "compensationTierSummary": "$60.58 – $108.17 per hour • Offers Equity",
+    "scrapeableCompensationSalarySummary": null,
+    "compensationTiers": [
+     {
+      "id": "777edd00-f7e4-4241-9b7e-f918e52cd914",
+      "tierSummary": "$60.58 – $108.17 per hour • Offers Equity",
+      "title": null,
+      "additionalInformation": null,
+      "components": [
+       {
+        "id": "ea357bc9-884b-4e2c-8360-cac040b780a3",
+        "summary": "Offers Equity",
+        "compensationType": "EquityCashValue",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": null,
+        "maxValue": null
+       },
+       {
+        "id": "b3892801-201a-4e02-8e94-aa0da14b21c6",
+        "summary": "$60.58 – $108.17 per hour",
+        "compensationType": "Salary",
+        "interval": "1 HOUR",
+        "currencyCode": "USD",
+        "minValue": 60.58,
+        "maxValue": 108.17
+       }
+      ]
+     }
+    ],
+    "summaryComponents": [
+     {
+      "compensationType": "EquityCashValue",
+      "interval": "1 YEAR",
+      "currencyCode": "USD",
+      "minValue": null,
+      "maxValue": null
+     },
+     {
+      "compensationType": "Salary",
+      "interval": "1 HOUR",
+      "currencyCode": "USD",
+      "minValue": 60.58,
+      "maxValue": 108.17
+     }
+    ]
+   }
+  },
+  {
+   "id": "b55447c0-4adc-42eb-9ca2-f88fd44e0e5b",
+   "title": "Partner Development Representative | Accounting ",
+   "department": "Sales",
+   "team": "Channel Sales",
+   "employmentType": "FullTime",
+   "location": "New York, NY (HQ)",
+   "shouldDisplayCompensationOnJobPostings": true,
+   "secondaryLocations": [
+    {
+     "location": "Remote (US)",
+     "address": {
+      "postalAddress": {
+       "addressCountry": "United States"
+      }
+     }
+    }
+   ],
+   "publishedAt": "2026-09-30T22:45:28.341+00:00",
+   "isListed": true,
+   "isRemote": true,
+   "workplaceType": "Hybrid",
+   "address": {
+    "postalAddress": {
+     "addressRegion": "NY",
+     "addressCountry": "USA",
+     "addressLocality": "New York City"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/ramp/b55447c0-4adc-42eb-9ca2-f88fd44e0e5b",
+   "applyUrl": "https://jobs.ashbyhq.com/ramp/b55447c0-4adc-42eb-9ca2-f88fd44e0e5b/application",
+   "descriptionHtml": "<h1><strong>About Ramp</strong></h1><p style=\"min-height:1.5em\">Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.</p><p style=\"min-height:1.5em\">The problems are high-stakes, data-dense, and unforgiving.</p><p style=\"min-height:1.5em\">We hire people with high",
+   "descriptionPlain": "ABOUT RAMP\n\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\n\nThe problems are high-stakes, data-dense, and unforgiving.\n\nWe hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.\n\nThe median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\n\nIf you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.\n\n\n\nAbout the Role\n\nOur world-class sales organization is looking for self-motivated teammates with high social intelligence and a natural inclination for selling and partnering to accelerate our growth as we scale rapidly! Individuals who are eager to learn, embrace challenges, and passionate about succeeding will thrive at Ramp. Our Partner Development Representatives act as the initial point of contact and are responsible for hunting and qualifying partners to build new partnerships that drive sales opportunities for Ramp.\n\n\n\nWhat You’ll Do\n\n - Ident",
+   "compensation": {
+    "compensationTierSummary": "$110K – $120K • Offers Equity • Offers Commission • Total OTE with 70/30 split",
+    "scrapeableCompensationSalarySummary": "$110K - $120K",
+    "compensationTiers": [
+     {
+      "id": "bffa61b5-4dd5-4a37-98f5-fc6a56bdbb1e",
+      "tierSummary": "$110K – $120K • Offers Equity • Offers Commission • Total OTE with 70/30 split",
+      "title": null,
+      "additionalInformation": "Total OTE with 70/30 split",
+      "components": [
+       {
+        "id": "b536990e-72a3-49b5-8b00-e1ce42417d3a",
+        "summary": "Offers Equity",
+        "compensationType": "EquityCashValue",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": null,
+        "maxValue": null
+       },
+       {
+        "id": "91b97903-f009-496d-9649-8e26e9b31d8d",
+        "summary": "$110K – $120K",
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 110000,
+        "maxValue": 120000
+       },
+       {
+        "id": "ec356f5e-5dea-42be-baf8-cfc037429e07",
+        "summary": "Offers Commission",
+        "compensationType": "Commission",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": null,
+        "maxValue": null
+       }
+      ]
+     }
+    ],
+    "summaryComponents": [
+     {
+      "compensationType": "EquityCashValue",
+      "interval": "1 YEAR",
+      "currencyCode": "USD",
+      "minValue": null,
+      "maxValue": null
+     },
+     {
+      "compensationType": "Salary",
+      "interval": "1 YEAR",
+      "currencyCode": "USD",
+      "minValue": 110000,
+      "maxValue": 120000
+     },
+     {
+      "compensationType": "Commission",
+      "interval": "1 YEAR",
+      "currencyCode": "USD",
+      "minValue": null,
+      "maxValue": null
+     }
+    ]
+   }
+  },
+  {
+   "id": "1515fe6d-1d8e-475b-a5ee-cefe43e78cb7",
+   "title": "Account Executive",
+   "department": "Sales",
+   "team": "AE - Mid-Market",
+   "employmentType": "FullTime",
+   "location": "London, UK",
+   "shouldDisplayCompensationOnJobPostings": false,
+   "secondaryLocations": [],
+   "publishedAt": "2026-06-08T19:17:53.481+00:00",
+   "isListed": true,
+   "isRemote": false,
+   "workplaceType": "OnSite",
+   "address": {
+    "postalAddress": {
+     "addressCountry": "United Kingdom",
+     "addressLocality": "London"
+    }
+   },
+   "jobUrl": "https://jobs.ashbyhq.com/ramp/1515fe6d-1d8e-475b-a5ee-cefe43e78cb7",
+   "applyUrl": "https://jobs.ashbyhq.com/ramp/1515fe6d-1d8e-475b-a5ee-cefe43e78cb7/application",
+   "descriptionHtml": "<h1><strong>About Ramp</strong></h1><p style=\"min-height:1.5em\">Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.</p><p style=\"min-height:1.5em\">The problems are high-stakes, data-dense, and unforgiving.</p><p style=\"min-height:1.5em\">We hire people with high",
+   "descriptionPlain": "ABOUT RAMP\n\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\n\nThe problems are high-stakes, data-dense, and unforgiving.\n\nWe hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.\n\nThe median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\n\nIf you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.\n\n\n\n\nABOUT THE ROLE\n\nAs one of the first Account Executives based in the UK, you’ll be focused on driving Ramp’s expansion in the European market. This role is for sellers who thrive in ambiguity, move fast, and take ownership of outcomes without being handed a playbook. You'll run a high-velocity motion across small and mid-market businesses – qualifying quickly, driving urgency, and closing deals across a diverse set of countries, cultures, and buying behaviours. In this role, you’ll also have the opportunity to build out our broader EMEA GTM strategy",
+   "compensation": {
+    "compensationTierSummary": null,
+    "scrapeableCompensationSalarySummary": null,
+    "compensationTiers": [],
+    "summaryComponents": []
+   }
+  }
+ ]
+}

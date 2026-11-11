@@ -1,0 +1,6 @@
+{
+  "_about": "Companies whose application page cannot be filled by this tool (bot protection, or a careers page with no form). Edit freely; it is committed. Used when apply_sites has no fresh row for the company. `ats` is informational.",
+  "sites": [
+    { "company": "Toast", "ats": "greenhouse", "vendor": "AWS WAF", "reason": "job-boards.greenhouse.io redirects to careers.toasttab.com, which answers with an AWS WAF challenge (x-amzn-waf-action) and shows no form" }
+  ]
+}

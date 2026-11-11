@@ -1,0 +1,53 @@
+{
+  "LanguageCode": "EN",
+  "SearchParameters": { "Keyword": "software engineer", "ResultsPerPage": "50" },
+  "SearchResult": {
+    "SearchResultCount": 2,
+    "SearchResultCountAll": 2,
+    "SearchResultItems": [
+      {
+        "MatchedObjectId": "799001200",
+        "MatchedObjectDescriptor": {
+          "PositionID": "DE-12345-26-001",
+          "PositionTitle": "IT Specialist (APPSW)",
+          "PositionURI": "https://www.usajobs.gov/job/799001200",
+          "ApplyURI": ["https://www.usajobs.gov/job/799001200"],
+          "PositionLocationDisplay": "Washington, District of Columbia",
+          "PositionLocation": [{ "LocationName": "Washington, District of Columbia", "CountryCode": "United States" }],
+          "OrganizationName": "Bureau of Example Statistics",
+          "DepartmentName": "Department of Examples",
+          "JobCategory": [{ "Name": "Information Technology Management", "Code": "2210" }],
+          "PositionSchedule": [{ "Name": "Full-time", "Code": "1" }],
+          "PositionRemuneration": [{ "MinimumRange": "99172", "MaximumRange": "128756", "RateIntervalCode": "PA", "Description": "Per Year" }],
+          "PublicationStartDate": "2026-11-03T00:00:00.0000",
+          "ApplicationCloseDate": "2026-11-24T23:59:59.9970",
+          "QualificationSummary": "You must have one year of specialized experience equivalent to the GS-11 level.",
+          "UserArea": {
+            "Details": {
+              "JobSummary": "Develops and maintains <b>application software</b> for statistical programs.",
+              "MajorDuties": ["Design and code web applications.", "Review code written by others."],
+              "Education": "Not required for this series.",
+              "Requirements": "U.S. citizenship is required.",
+              "RemoteIndicator": false
+            }
+          }
+        }
+      },
+      {
+        "MatchedObjectId": "799001300",
+        "MatchedObjectDescriptor": {
+          "PositionID": "DE-67890-26-002",
+          "PositionTitle": "Student Trainee (Computer Science)",
+          "PositionURI": "https://www.usajobs.gov/job/799001300",
+          "ApplyURI": ["https://www.usajobs.gov/job/799001300"],
+          "PositionLocationDisplay": "Multiple Locations",
+          "PositionLocation": [{ "LocationName": "Anywhere in the U.S. (remote job)" }],
+          "OrganizationName": "Office of Example Research",
+          "PositionRemuneration": [{ "MinimumRange": "22.50", "MaximumRange": "30.10", "RateIntervalCode": "PH", "Description": "Per Hour" }],
+          "PublicationStartDate": "2026-11-05T00:00:00.0000",
+          "UserArea": { "Details": { "JobSummary": "Assists with software testing.", "RemoteIndicator": true } }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "minBasePay": 95000,
+  "requiresSponsorship": null,
+  "trackAKeywords": [
+    "software engineer", "software developer", "swe", "backend engineer", "frontend engineer", "full-stack", "full stack",
+    "fullstack", "data engineer", "automation", "machine learning engineer", "ml engineer", "engineer"
+  ],
+  "trackBKeywords": [
+    "solutions engineer", "solutions architect", "sales engineer", "implementation", "solutions consultant",
+    "customer engineer", "technical account", "technical consultant", "solutions"
+  ],
+  "excludeTitleWords": [
+    "senior", "sr.", "sr ", "staff", "principal", "lead", "manager", "director", "vp", "vice president",
+    "head of", "intern", "internship"
+  ],
+  "excludeDescriptionPatterns": [
+    "\\b([3-9]|1\\d)\\s*\\+\\s*years?",
+    "\\b(at least|minimum of|minimum)\\s+([3-9]|1\\d)\\s+years?",
+    "\\b([3-9]|1\\d)\\s*(-|to)\\s*\\d+\\s+years?",
+    "\\b([3-9]|1\\d)\\s+years?\\s+of\\s+(professional\\s+|relevant\\s+|work\\s+)?(experience|software|engineering)"
+  ],
+  "softWords": ["preferred", "nice to have", "nice-to-have", "bonus", "ideally", "a plus"],
+  "hardWords": ["required", "must", "minimum", "at least"],
+  "locationTiers": [
+    { "tier": 1, "label": "Chicago area", "patterns": ["\\b(chicago|evanston|naperville|oak park|schaumburg)\\b|,\\s*il\\b"] },
+    { "tier": 2, "label": "Remote (US)", "remote": true },
+    { "tier": 3, "label": "Austin", "patterns": ["\\b(austin|round rock|cedar park)\\b"] },
+    { "tier": 4, "label": "Washington", "patterns": ["\\b(seattle|bellevue|redmond|washington state)\\b|,\\s*wa\\b"] }
+  ],
+  "listedPayRequired": [{ "tier": 4, "reason": "WA requires listed pay" }]
+}

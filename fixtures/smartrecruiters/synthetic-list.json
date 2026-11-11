@@ -1,0 +1,4 @@
+{"_note":"SYNTHETIC: hand-written from SmartRecruiters' documented Posting API shape; api.smartrecruiters.com robots.txt disallows crawling so no real response was fetched.",
+ "offset":0,"limit":100,"totalFound":2,"content":[
+ {"id":"743999000000001","name":"Senior Backend Engineer","uuid":"00000000-0000-0000-0000-000000000001","refNumber":"REF1","releasedDate":"2026-10-01T14:30:00.000Z","company":{"identifier":"ExampleCo","name":"ExampleCo"},"location":{"city":"New York","region":"NY","country":"us","remote":false,"fullLocation":"New York, NY, United States"},"department":{"label":"Engineering"}},
+ {"id":"743999000000002","name":"Staff ML Engineer","uuid":"00000000-0000-0000-0000-000000000002","refNumber":"REF2","releasedDate":"2026-10-05T09:00:00.000Z","company":{"identifier":"ExampleCo","name":"ExampleCo"},"location":{"city":"Austin","region":"TX","country":"us","remote":true},"department":{"label":"ML"}}]}

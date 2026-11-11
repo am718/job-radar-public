@@ -1,0 +1,74 @@
+{
+ "/job/US-Remote/Software-Engineer--OpenShell_JR2020825": {
+  "jobPostingInfo": {
+   "id": "0112fc72cec1102995df3eee12140000",
+   "title": "Software Engineer, OpenShell",
+   "jobDescription": "<p>Are you ready to translate groundbreaking AI research into secure, production-grade systems? Want to shape the next generation of AI agent infrastructure? Join us!</p><p></p><p>At NVIDIA OpenShell, we are building the runtime infrastructure for secure, scalable, production-grade AI agents. As an OpenShell Research Engineer, we will look to you to help bring the latest advances in agentic systems into the runtime, tools, and workflows that enterprise builders rely on.</p><p>This role sits at the intersection of research, product, and engineering. We expect you to identify promising methods from academia, industry, open source, and internal NVIDIA research, understand where they matter for OpenShell, validate their impact through hands-on prototypes, benchmarks, and real agent workflows, and help us integrate the best ideas into the product.</p><p></p><p><b>What You\u2019ll be Doing:</b></p><ul><li><p>Track the cutting edge: How are agentic systems evolving? You&#39;ll follow research in tool use, planning, memory, evaluation, self-improvement, multi-agent workflows, runtime infrastructure, and agent safety/security.</p></li><li><p>Bridge research and product: Identify research ideas that can meaningfully improve OpenShell and translate them into concrete product opportunities.</p></li><li><p>Benchmark and adapt: Reproduce and test promising methods from papers, open-source projects, industry work, and internal NVIDIA research.</p></li><li><p>Build rapid prototypes: Create hands-on proof-of-concepts using OpenShell, including agent harnesses, evaluation loops, self-improving workflows, and runtime-native developer experiences.</p></li><li><p>Red-team systems: Design evaluation and red-team harnesses that measure agent reliability, usefulness, scalability, safety, security, and developer experience.</p></li><li><p>Secure the workflow: Help us design secure-by-default workflows for agents operating with tools, code, files, credentials, and enterprise systems.</p></li><li><p>Partner across teams: Collaborate closely with engineering, product, design, research, solutions, and developer-facing teams to move ideas from prototype to product.</p></li></ul><p></p><p><b>What you\u2019ll need:</b></p><ul><li><p>8&#43; years of professional practical experience in research engineering, software development, or a related technical field</p></li><li><p>MS/PhD in Computer Science, Physics, or a related field or equivalent experience</p></li><li><p>A strong background in turning complex research into reusable products, tools, demos, benchmarks, or production systems at scale.</p></li><li><p>Deep experience in several of the following: LLMs, agent harnesses, multimodal generative models, evaluation frameworks, synthetic data generation, post-training, inference infrastructure/optimization, adversarial ML, or agent safety/security.</p></li><li><p>Demonstrated ability to drive independent technical investigation: survey relevant work, run experiments, form a clear point of view, and communicate findings clearly.</p></li><li><p>Strong product sense and care for UX and AX: tools should be intuitive for developers and ergonomic for agents.</p></li><li><p>A focus on real-world impact: we want research to become enterprise capabilities, reference implementations, developer workflows, or product improvements.</p></li><li><p>Outstanding team orientation and comfort collaborating across research, engineering, product, design, solutions, and developer-facing teams.</p></li></ul><p></p><p><b>Ways to stand out from the crowd:</b></p><ul><li><p>Experience with secure agent runtimes, tool sandboxing, capability-based security, or enterprise policy systems.</p></li><li><p>Experience with compliance or enterprise governance requirements such as auditability, data retention, access control, SOC2, HIPAA, GDPR, or regulated deployment environments.</p></li><li><p>Experience with LLM inference infrastructure, model serving, or inference optimization using tools such as Triton, TensorRT-LLM, vLLM, SGLang, Ray, Kubernetes, or cloud GPU platforms.</p></li><li><p>Experience integrating inference backends into agentic systems, including routing across models, tool-aware context management, streaming, structured outputs, retries, monitoring, and cost/performance optimization.</p></li><li><p>Experience developing or maintaining open-source software in AI agents, LLM systems, developer tooling, ML infrastructure, model serving, or related areas.</p></li></ul><p></p><p>NVIDIA is widely considered to be one of the technology world\u2019s most desirable employers. We have some of the most forward-thinking and hardworking people on the planet working for us. If you&#39;re creative, passionate and self-motivated, we want to hear from you! NVIDIA is leading the way in groundbreaking developments in Artificial Intelligence, High-Performance Computing and Visualization. The GPU, our invention, serves as the visual cortex of modern computers and is at the heart of our products and services.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p>Your base salary will be determined based on your location, experience, and other objective job-related factors. The expected base salary range for this position is 184,000 USD \u2013 287,500 USD.<div><div><div><div><div><div><div><p></p><p><span>You will also be eligible for equity and <a href=\"https://www.nvidia.com/en-us/benefits/\" target=\"_blank\">benefits</a>.</span></p><p></p></div></div></div></div></div></div></div>Applications for this job will be accepted at least until November 3, 2026.<p></p><p>This posting is for an existing vacancy.\u00a0</p><p>NVIDIA uses AI tools in its recruiting processes.</p><p></p>NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p>",
+   "location": "US, Remote",
+   "postedOn": "Posted 11 Days Ago",
+   "startDate": "2026-10-30",
+   "timeType": "Full time",
+   "jobReqId": "JR2020825",
+   "jobPostingId": "Software-Engineer--OpenShell_JR2020825",
+   "jobPostingSiteId": "NVIDIAExternalCareerSite",
+   "country": {
+    "descriptor": "United States of America",
+    "id": "bc33aa3152ec42d4995f4791a106ed09"
+   },
+   "canApply": true,
+   "posted": true,
+   "includeResumeParsing": true,
+   "jobRequisitionLocation": {
+    "descriptor": "US, CA, Remote",
+    "country": {
+     "descriptor": "United States of America",
+     "id": "bc33aa3152ec42d4995f4791a106ed09",
+     "alpha2Code": "US"
+    }
+   },
+   "externalUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825",
+   "questionnaireId": "2f2764b3a82910064296831695150000"
+  },
+  "hiringOrganization": {
+   "name": "2100 NVIDIA USA",
+   "url": ""
+  },
+  "userAuthenticated": false
+ },
+ "/job/US-CA-Santa-Clara/Principal-Software-Engineer_JR2028458": {
+  "jobPostingInfo": {
+   "id": "faa6a0b37d861048fcfcc00db4730000",
+   "title": "Principal Software Engineer",
+   "jobDescription": "<p>NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It\u2019s a unique legacy of innovation that\u2019s fueled by great technology\u2014and amazing people. Today, we\u2019re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what\u2019s never been done before takes vision, innovation, and the world\u2019s best talent. As an NVIDIAN, you\u2019ll be immersed in an inclusive, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world. </p><br /><p>We are looking to hire a deeply technical, creative, and hands-on Senior full-stack developer to build the next generation AI platforms and products that improve business efficiency and productivity. This engineer is expected to be familiar with concepts of RAG, agentic AI to be able to build AI products using SOTA agentic paradigms, third party platforms and open-source repos. As a key leader in our technology team, you will play a pivotal role in shaping the architecture, development, and scaling of our software systems. This role will give an opportunity to collaborate with Cloud, AI/ML &amp; Generative AI workforce in a multifaceted and agile working environment, while meeting the immediate and evolving needs of our business.</p><br /><h2><b>What you\u2019ll be doing:</b></h2><ul><li>Hands-on experience with test automation, production testing, and automation frameworks</li><li>Solid understanding of Linux, embedded systems, firmware, and hardware/software integration</li><li>Integrate agents with enterprise data sources, APIs, and internal microservices to enable real-world actions. Collaborate with cross-functional teams to deliver end-to-end intelligent experiences across applications</li><li>Ensure reliability, safety, and performance of autonomous systems operating at scale</li><li>Architect and build agentic AI systems that leverage LLMs for reasoning, planning, and tool orchestration across enterprise workflows. Design and implement multi-agent frameworks enabling coordination, delegation, and dynamic task execution</li><li>Develop scalable platforms for retrieval-augmented generation (RAG), long-term memory, and contextual reasoning</li><li>Build reusable infrastructure for agent orchestration, tool integration, evaluation, and observability</li><li>Establish best practices for agent evaluation, guardrails, and human-in-the-loop workflows</li><li>Mentor engineers and provide technical leadership in designing complex distributed AI systems</li><li>Stay at the forefront of advancements in LLMs, agent frameworks, tool use, reasoning architectures, and open-source ecosystems</li></ul><br /><h2><b>What we need to see:</b></h2><ul><li>BS, MS, or PhD in Computer Science, Electrical/Computer Engineering or related field (or equivalent experience)</li><li>15&#43; years of experience building large-scale distributed systems and cloud-native applications (Python preferred)</li><li>Strong experience designing and deploying LLM-powered systems, including RAG, tool use, and agent-based architectures</li><li>Deep understanding of agentic AI paradigms (planning, memory, tool invocation, multi-step reasoning)</li><li>Experience with agent frameworks and orchestration tools (e.g., LangChain or similar)</li><li>Proven ability to design systems with high reliability, scalability, and performance</li><li>Hands-on experience deploying applications in Kubernetes environments. Experience building systems in cloud and hybrid environments</li><li>Strong programming skills across multiple languages and modern software stacks</li><li>Proven track record leading complex technical initiatives and mentoring high-performing teams</li><li>Excellent problem-solving, communication, and system design skills</li></ul><br /><h2><b>Ways to stand out from the crowd:</b></h2><ul><li>Experience enhancing enterprise efficiency and employee experience through the effective use of Generative AI based solutions.</li><li>Fascinated by unique and difficult problems - resilient and persistent in the pursuit of solutions.</li><li>Experience with Cloud Platforms, experience with Kubernetes and Docker.</li><li>Self-motivation and a drive to get things to \u201cdone\u201d.</li><li>Excellent programming, debugging, performance analysis, and test design skills using python is a plus.</li></ul><br /><p>NVIDIA is widely considered to be one of the technology world\u2019s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you&#39;re creative and autonomous, we want to hear from you!</p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p>Your base salary will be determined based on your location, experience, and other objective job-related factors. The expected base salary range for this position is 248,000 USD \u2013 391,000 USD.<div><div><div><div><div><div><div><p></p><p><span>You will also be eligible for equity and <a href=\"https://www.nvidia.com/en-us/benefits/\" target=\"_blank\">benefits</a>.</span></p><p></p></div></div></div></div></div></div></div>Applications for this job will be accepted at least until November 3, 2026.<p></p><p>This posting is for an existing vacancy.\u00a0</p><p>NVIDIA uses AI tools in its recruiting processes.</p><p></p>NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.<p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p>",
+   "location": "US, CA, Santa Clara",
+   "postedOn": "Posted 11 Days Ago",
+   "startDate": "2026-10-30",
+   "timeType": "Full time",
+   "jobReqId": "JR2028458",
+   "jobPostingId": "Principal-Software-Engineer_JR2028458",
+   "jobPostingSiteId": "NVIDIAExternalCareerSite",
+   "country": {
+    "descriptor": "United States of America",
+    "id": "bc33aa3152ec42d4995f4791a106ed09"
+   },
+   "canApply": true,
+   "posted": true,
+   "includeResumeParsing": true,
+   "jobRequisitionLocation": {
+    "descriptor": "US, CA, Santa Clara",
+    "country": {
+     "descriptor": "United States of America",
+     "id": "bc33aa3152ec42d4995f4791a106ed09",
+     "alpha2Code": "US"
+    }
+   },
+   "externalUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer_JR2028458",
+   "questionnaireId": "2f2764b3a82910064296831695150000"
+  },
+  "hiringOrganization": {
+   "name": "2100 NVIDIA USA",
+   "url": ""
+  },
+  "userAuthenticated": false
+ }
+}

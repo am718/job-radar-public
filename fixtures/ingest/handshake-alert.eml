@@ -1,0 +1,24 @@
+From: Handshake <no-reply@example.com>
+To: Test Person <test.person@example.com>
+Subject: New jobs matching your preferences
+Date: Wed, 05 Nov 2025 15:00:00 +0000
+Message-ID: <hs-1@example.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<html><body>
+<h2>New jobs for you</h2>
+<table><tr><td>
+<a href="https://app.joinhandshake.com/stu/jobs/9876543?ref=email&amp;utm_source=x">Software Engineering Associate</a><br>
+Cobalt Freight &middot; New York, NY<br>
+Full-Time Job
+</td></tr>
+<tr><td>
+<a href="https://app.joinhandshake.com/stu/jobs/9876544?ref=email">Implementation Analyst at Larkspur Software</a><br>
+Hybrid - Jersey City, NJ<br>
+</td></tr>
+<tr><td>
+<a href="https://app.joinhandshake.com/stu/notification_settings">Notification settings</a>
+<a href="https://app.joinhandshake.com/stu/users/12345/edit">Update your profile</a>
+</td></tr></table>
+</body></html>

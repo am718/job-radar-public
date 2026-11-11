@@ -1,0 +1,52 @@
+{
+  "name": "REPLACE_ME full name",
+  "first_name": "REPLACE_ME",
+  "last_name": "REPLACE_ME",
+  "preferred_name": null,
+  "email": "REPLACE_ME@example.com",
+  "phone": "REPLACE_ME",
+  "city": "Chicago",
+  "state": "IL",
+  "country": "United States",
+  "address": null,
+  "location_query": "Chicago, Illinois, United States",
+  "linkedin": "REPLACE_ME https://www.linkedin.com/in/...",
+  "github": "REPLACE_ME https://github.com/...",
+  "portfolio": "REPLACE_ME https://...",
+  "website": null,
+  "twitter": null,
+  "school": "State University",
+  "degree": "REPLACE_ME e.g. Bachelor of Science",
+  "major": "REPLACE_ME e.g. Computer Science",
+  "graduation_date": "2027-06",
+  "current_company": null,
+  "cover_letter_path": null,
+  "resumes": {
+    "A": "resumes/resume-A.pdf",
+    "B": "resumes/resume-B.pdf"
+  },
+  "answers": {
+    "work_authorization": "REPLACE_ME your literal answer, e.g. Yes",
+    "sponsorship_needed": "REPLACE_ME your literal answer, e.g. No",
+    "how_did_you_hear": null,
+    "salary_expectation": "$95,000 to $120,000 base, flexible depending on total compensation",
+    "start_date": "Summer 2027, after graduating in June 2027",
+    "eeo_gender": null,
+    "eeo_race": null,
+    "eeo_hispanic": null,
+    "eeo_orientation": null,
+    "eeo_transgender": null,
+    "veteran": null,
+    "disability": null,
+    "criminal_history": null,
+    "pronouns": null,
+    "previously_employed": null,
+    "privacy_consent": null
+  },
+  "custom_answers": [
+    {
+      "match": "/years of experience with python/i",
+      "answer": "REPLACE_ME or delete this example"
+    }
+  ]
+}

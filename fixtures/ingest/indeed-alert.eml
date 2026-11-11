@@ -1,0 +1,25 @@
+From: Indeed <alert@example.com>
+To: Test Person <test.person@example.com>
+Subject: Software Developer: 2 new jobs in New York, NY
+Date: Tue, 04 Nov 2025 09:30:00 -0500
+Message-ID: <in-1@example.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<html><body>
+<div>
+  <a href="https://www.indeed.com/rc/clk?jk=a1b2c3d4e5f60718&amp;fccid=1234&amp;vjs=3">Junior Software Developer</a>
+  <div>Harbor Systems</div>
+  <div>4.1 &#9733;</div>
+  <div>Brooklyn, NY 11201</div>
+  <div>$85,000 - $105,000 a year</div>
+  <div>Build internal tools in TypeScript and Python for our logistics customers.</div>
+</div>
+<div>
+  <a href="https://www.indeed.com/viewjob?jk=0123456789abcdef&amp;tk=1h&amp;from=ja">Automation Engineer</a>
+  <div>Pinecrest Health - Remote</div>
+  <div>Automate reporting pipelines for clinical operations.</div>
+</div>
+<p><a href="https://www.indeed.com/jobalert/unsubscribe?id=1">Unsubscribe</a> <a href="https://www.indeed.com/account/settings">Manage job alerts</a>
+<a href="https://www.indeed.com/legal">Terms</a></p>
+</body></html>

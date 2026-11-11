@@ -1,0 +1,10 @@
+{
+  "name": "Jordan Rivera",
+  "summary": "Jordan Rivera. Senior at State University, Computer Science, graduating June 2027. Based in Chicago, IL. Seeking entry-level full-time roles.\nTrack A: software engineering, backend, data engineering, automation. Track B: solutions engineering, implementation, technical customer success.\nLocation preference: Chicago, then Remote (US), then Austin and Seattle.\nSkills: Python, TypeScript, SQL, React, Node.js, PostgreSQL, Docker, AWS basics, REST APIs, pytest, Git.\nExperience: summer software internship at a logistics software company (built an internal reporting dashboard used by 40 staff). Built and maintains a hobby project that tracks local transit delays and has about 500 weekly users. Teaching assistant for a data structures course.\nNot a fit: roles requiring 3+ years, senior or lead titles, roles needing security clearance or a PhD.",
+  "resume_A": "Engineering resume (Track A)",
+  "resume_B": "Solutions / business resume (Track B)",
+  "goal": "I want a role with base pay of at least $95,000, in Chicago or remote in the US. (Used by the scanner's code rules for pay and work-arrangement ranking; not sent to the scorer, so it does not change scores.)",
+  "graduation": "June 2027",
+  "experience_note": "internship and project work",
+  "_note": "Only 'summary' is sent to the scorer (and hashed into the score cache key). 'goal' is for the code rules. 'graduation' and 'experience_note' are rendered into the scoring prompts (and hashed into the prompt version). Copy this file to profile.json (gitignored) and edit, or run `npm run init`."
+}

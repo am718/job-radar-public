@@ -1,0 +1,69 @@
+{
+ "id": 50338728,
+ "title": "Ask HN: Who is hiring? (November 2026)",
+ "created_at": "2026-11-02T16:01:37.000Z",
+ "type": "story",
+ "children": [
+  {
+   "id": 50338736,
+   "author": "benchaupt",
+   "created_at": "2026-11-02T16:01:53.000Z",
+   "parent_id": 50338728,
+   "story_id": 50338728,
+   "type": "comment",
+   "text": "Synteq | Growth Lead &amp; Systems Administrator | Austin, TX | REMOTE (US) | Full-time<p>Synteq is a developer cloud running our own hardware and network. We do large-scale bare-metal, GPU, VPS, storage, and PaaS deployments across 5 US datacenters.<p>- Growth Lead: own top of funnel for a developer cloud product, covering SEO, community, PLG, and partnerships. Open to people new to growth or with some experience. <a href=\"https:&#x2F;&#x2F;synteq.com&#x2F;career&#x2F;growth-lead\" rel=\"nofollow\">https:&#x2F;&#x2F;synteq.com&#x2F;career&#x2F;growth-lead</a><p>- Systems Administrator: Proxmox hypervisors, networking, physical builds, Ceph, and bare metal. Ideally 2–15 YOE. <a href=\"https:&#x2F;&#x2F;synteq.com&#x2F;career&#x2F;systems-administrator\" rel=\"nofollow\">https:&#x2F;&#x2F;synteq.com&#x2F;career&#x2F;systems-administrator</a><p>Small, close-knit team that takes on hard problems. We&#x27;ve grown a lot this past year and there&#x27;s much more ahead. Come build it with us.",
+   "children": []
+  },
+  {
+   "id": 50338732,
+   "author": "AdriaanvRossum",
+   "created_at": "2026-11-02T16:01:43.000Z",
+   "parent_id": 50338728,
+   "story_id": 50338728,
+   "type": "comment",
+   "text": "Simple Analytics | DevOps Engineer | REMOTE (worldwide, any timezone) | Full-time, 32h, 24h possible | €5,000&#x2F;month (full-time) | <a href=\"https:&#x2F;&#x2F;www.simpleanalytics.com&#x2F;jobs&#x2F;devops\" rel=\"nofollow\">https:&#x2F;&#x2F;www.simpleanalytics.com&#x2F;jobs&#x2F;devops</a><p>Hi HN, I&#x27;m Adriaan. Simple Analytics exists thanks to HN: it started with my Show HN in 2018 [1]. Today we&#x27;re a self-funded, profitable team of four building privacy-first analytics.<p>Privacy is why we run our own bare-metal servers instead of the cloud. We&#x27;re preparing for a LOT more traffic, and you&#x27;ll own the infrastructure and its reliability. We have good documentation. First project: leading the infra side of our Elasticsearch to ClickHouse migration, with Alex, our developer.<p>Stack: Ansible, OpenTofu, Docker Compose, Grafana, GitHub Actions, TypeScript. Clear async communication matters more than knowing every tool.<p>You can apply from your terminal:<p><pre><code>  curl https:&#x2F;&#x2F;www.simpleanalytics.com&#x2F;jobs&#x2F;devops.md\n</code></pre>\n[1] <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=18024277\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=18024277</a>",
+   "children": []
+  },
+  {
+   "id": 50338792,
+   "author": "shepherd-eng",
+   "created_at": "2026-11-02T16:04:26.000Z",
+   "parent_id": 50338728,
+   "story_id": 50338728,
+   "type": "comment",
+   "text": "Shepherd (Series B) | ONSITE | San Francisco, CA<p>At Shepherd, we&#x27;re pursuing the most ambitious technical vision in commercial insurance: fully autonomous underwriting. Shepherd is an AI-native commercial insurance platform transforming how high-hazard industries get covered.<p>The infrastructure behind the AI boom (data centers, semiconductor fabs, renewable energy assets) has to be built and insured, but traditional carriers weren&#x27;t built for this speed. We built Shepherd to solve that.<p>We announced our $42M Series B earlier this year! That brings our total funding to over $60M — led by Intact Private Capital, the investment arm of one of the largest insurers in the world. Intact is not only our lead investor but also a carrier partner, a testament to the confidence the incumbent industry has in what we&#x27;re building.<p>We’re looking for product-minded, high ownership engineers to join our team! The Engineering team is HQ’d in SF, but we’re growing in NYC now too!<p>We’re hiring for 2 Senior SWEs, 1 MLE and 1 AI PM in SF, and 2 Staff SWEs in NYC. Engineers own projects end-to-end so full stack ability is expected.<p>Check out our open roles here: <a href=\"https:&#x2F;&#x2F;shepherdinsurance.com&#x2F;careers\">https:&#x2F;&#x2F;shepherdinsurance.com&#x2F;careers</a>\nOur stack includes: Typescript, React, Next.js, GraphQL w&#x2F; Apollo, Node.js, Postgres &amp; Redis\n– If you have experience building AI agents or multi-step reasoning systems, we’d love to hear from you.<p>* In the form, be sure to mention that you heard about this opportunity via Hacker News.\nIf you want to read more about our team and culture, check out our blog: <a href=\"https:&#x2F;&#x2F;shepherdinsurance.com&#x2F;blog\">https:&#x2F;&#x2F;shepherdinsurance.com&#x2F;blog</a>",
+   "children": []
+  },
+  {
+   "id": 50338732,
+   "author": "AdriaanvRossum",
+   "created_at": "2026-11-02T16:01:43.000Z",
+   "parent_id": 50338728,
+   "story_id": 50338728,
+   "type": "comment",
+   "text": "Simple Analytics | DevOps Engineer | REMOTE (worldwide, any timezone) | Full-time, 32h, 24h possible | €5,000&#x2F;month (full-time) | <a href=\"https:&#x2F;&#x2F;www.simpleanalytics.com&#x2F;jobs&#x2F;devops\" rel=\"nofollow\">https:&#x2F;&#x2F;www.simpleanalytics.com&#x2F;jobs&#x2F;devops</a><p>Hi HN, I&#x27;m Adriaan. Simple Analytics exists thanks to HN: it started with my Show HN in 2018 [1]. Today we&#x27;re a self-funded, profitable team of four building privacy-first analytics.<p>Privacy is why we run our own bare-metal servers instead of the cloud. We&#x27;re preparing for a LOT more traffic, and you&#x27;ll own the infrastructure and its reliability. We have good documentation. First project: leading the infra side of our Elasticsearch to ClickHouse migration, with Alex, our developer.<p>Stack: Ansible, OpenTofu, Docker Compose, Grafana, GitHub Actions, TypeScript. Clear async communication matters more than knowing every tool.<p>You can apply from your terminal:<p><pre><code>  curl https:&#x2F;&#x2F;www.simpleanalytics.com&#x2F;jobs&#x2F;devops.md\n</code></pre>\n[1] <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=18024277\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=18024277</a>",
+   "children": [
+    {
+     "id": 50339964,
+     "author": "ayewo",
+     "created_at": "2026-11-02T17:08:06.000Z",
+     "parent_id": 50338732,
+     "story_id": 50338728,
+     "type": "comment",
+     "text": "Interesting post!<p>When you say &quot;Full-time, 32h, 24h possible | €5,000&#x2F;month (full-time)&quot; is the €5,000&#x2F;month salary pegged at 40h&#x2F;week so that the actual payment is scaled up&#x2F;down based on the number of hours worked per week?",
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": 50342858,
+   "author": "ArashEdalat",
+   "created_at": "2026-11-02T20:04:07.000Z",
+   "parent_id": 50338728,
+   "story_id": 50338728,
+   "type": "comment",
+   "text": "Apply here: <a href=\"https:&#x2F;&#x2F;tally.so&#x2F;r&#x2F;BzrbN7?source=hn\" rel=\"nofollow\">https:&#x2F;&#x2F;tally.so&#x2F;r&#x2F;BzrbN7?source=hn</a><p>Consumer Physical AI (stealth, robotics) | Mechatronics Engineer, AI Engineer | California &#x2F; REMOTE (US) | Full-time<p>Early-stage startup building a robot for the home, on real hardware with ROS 2. You&#x27;d be one of the first engineers.<p>Mechatronics Engineer: actuators, motor control, embedded firmware, fast prototyping on a multi-axis arm.<p>AI Engineer: perception and calibration on physical hardware, deploying models to on-device compute.",
+   "children": []
+  }
+ ]
+}
